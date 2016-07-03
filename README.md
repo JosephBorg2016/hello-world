@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hello!
+
+I am Joseph Borg. I like to play and watch sports.
